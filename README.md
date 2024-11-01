@@ -37,3 +37,28 @@ class edemdev7():
 
 if __name__ == '__main__':
     me = edemdev7()
+
+<div align="center"> <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2>
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats</h2> <img src="https://github-readme-stats.vercel.app/api?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF&icon_color=FFDD00" width="500" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=edemdev7&theme=dark&hide_border=true&background=0D1117&ring=FFDD00&currStreakLabel=FFDD00" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF" width="500" /> </div><h2 align="center">🚀 About Me</h2>
+
+    🎓 Currently pursuing a Fullstack Developer certification and holding a Bachelor's in Software Architecture.
+    🌐 Passionate about AI, especially NLP.
+    💻 Working primarily on backend development in frameworks like Django, Next.js, and NestJS.
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+    🌐 Advancing my backend skills with Django and FastAPI.
+    📊 Experimenting with PostgreSQL for scalable solutions.
+    🤖 Expanding my knowledge in AI and exploring machine learning algorithms.
+
+<h2 align="center">🏆 Achievements</h2>
+
+    🏅 Completed certifications in algorithms, data structures, and backend development from FreeCodeCamp.
+
+<h2 align="center">📬 Connect With Me</h2>
+
+    Twitter: @edemdev7
+    LinkedIn: Edem KPOMACHI
+
+Thanks for stopping by! Let's collaborate and make something amazing. 🚀
