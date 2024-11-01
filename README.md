@@ -1,7 +1,4 @@
 <div align="center">
-
-  <img src="https://th.bing.com/th/id/OIP.QMeBdraP_DLRSBYGn3qFAgHaHa?rs=1&pid=ImgDetMain" width="400" />
-
   <h3>Hi there! I'm <a href="#">Edem KPOMACHI</a> - aka edemdev7 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
   <p>
@@ -61,7 +58,7 @@ if __name__ == '__main__':
 
 - 🎓 Pursuing a Fullstack Developer certification and holding a Bachelor's in Software Architecture.
 - 🌐 Passionate about AI, especially NLP.
-- 💻 Primarily focused on backend development with Django, Next.js, and NestJS.
+- 💻 Primarily focused on backend development with Django, Next.js, and NestJS, Flask, Laravel, NodeJS  .
 
 <h2 align="center">🌱 Currently Exploring</h2>
 
@@ -72,10 +69,11 @@ if __name__ == '__main__':
 <h2 align="center">🏆 Achievements</h2>
 
 - 🏅 Completed certifications in algorithms, data structures, and backend development from FreeCodeCamp.
+- 🏅 Completed certifications in Software Engeenering  from Hackeranck.
+
 
 <h2 align="center">📬 Connect With Me</h2>
 
-- Twitter: [@edemdev7](https://x.com/edemdev7)
 - LinkedIn: [Edem KPOMACHI](https://www.linkedin.com/in/edem-kpomachi/)
 
 Thanks for stopping by! Let's collaborate and create something incredible. 🚀
