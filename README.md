@@ -42,7 +42,7 @@ if __name__ == '__main__':
   
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,java,cpp,typescript,postgresql,docker,nextjs,nestjs,electron,react,postman,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,java,cpp,typescript,postgresql,docker,nextjs,nestjs,react,postman,vscode)](https://skillicons.dev)
   
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</h2>
 
@@ -51,6 +51,7 @@ if __name__ == '__main__':
   <img src="https://github-readme-streak-stats.herokuapp.com?user=edemdev7&theme=dark&hide_border=true" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pinite37&theme=radical" alt="Pinite37"/>
 
 </div>
 
