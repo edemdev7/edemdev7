@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
   <img src="https://github-readme-stats.vercel.app/api?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF&icon_color=FFDD00" width="500" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edemdev7&theme=dark&hide_border=true&background=0D1117&ring=FFDD00&currStreakLabel=FFDD00" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=edemdev7&theme=dark&hide_border=true" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF" width="500" />
 
