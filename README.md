@@ -43,12 +43,12 @@ if __name__ == '__main__':
   
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF&icon_color=FFDD00" width="500" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF&icon_color=FFDD00" width="500" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edemdev7&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=edemdev7&theme=dark&hide_border=true" alt="GitHub Streak" /> -->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edemdev7&theme=dark&hide_border=true&title_color=FFDD00&text_color=FFFFFF" width="500" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pinite37&theme=radical" alt="Pinite37"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pinite37&theme=radical" alt="Edemdev"/>
 
 </div>
 
